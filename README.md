@@ -90,6 +90,11 @@ Aspiring Business Analyst | Power BI Enthusiast | MBA Aspirant
 
 ## Dashboard Preview
 
-![Executive Overview](E-Commerce Profit Rescue Dashboard_page-0001.jpg)
+### Executive Overview
 
-![Profit Leakage Analysis](E-Commerce Profit Rescue Dashboard_page-0002.png)
+![Executive Overview](E-Commerce%20Profit%20Rescue%20Dashboard_page-0001.jpg)
+
+### Profit Leakage Analysis
+
+![Profit Leakage Analysis](E-Commerce%20Profit%20Rescue%20Dashboard_page-0002.jpg)
+
